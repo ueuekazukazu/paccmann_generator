@@ -32,7 +32,7 @@ setup(
     ),
     install_requires=[
         'numpy', 'pandas', 'matplotlib', 'seaborn',
-        'pytoda @ git+ssh://git@github.com/PaccMann/paccmann_datasets@0.2.0',
+        'pytoda @ git+ssh://git@github.com/PaccMann/paccmann_datasets@1.1.2',
         'torch>=1.0.0', 'six>=1.12.0',
         'toxsmi @ git+ssh://git@github.com/ueuekazukazu/chemical_representation_learning_for_toxicity_prediction.git'
     ],
